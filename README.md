@@ -1,2 +1,3 @@
 # Movie-Recommendation-System-Project
-In this project, we will use different methods to build different recommendation systems and then compare their performances.
+
+This is a toy project for self-learning. In this project, we will use different methods to build different recommendation systems and then compare their performances.
